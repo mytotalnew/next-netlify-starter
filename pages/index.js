@@ -14,6 +14,8 @@ export default function Home() {
         <Header title="Hi Mymediadreams" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
+    <a href="https://www.mymediadreams.com/wp-content/uploads/2020/07/Slider_img.png">
+    </a>
         </p>
       </main>
 
